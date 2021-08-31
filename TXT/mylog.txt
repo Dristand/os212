@@ -6,4 +6,4 @@ ZCZC W00 15 L01 SCELE/Discord related
 ZCZC W00 80 L02 ZOOM meetings related
 ZCZC W00 05 L03 Github Setup
 ZCZC W00 15 L10 Doing W00 tasks
-ZCZC W00 120 L73 Playing Refreshing Games
+ZCZC W00 60 L73 Playing Refreshing Games
