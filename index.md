@@ -1,1 +1,1 @@
-[Repo](https://github.com/Dristand/os212) | [Log](https://Dristand/os212/blob/main/TXT/mylog.txt) | [Links](https://Dristand.github.io/os212/LINKS) | 
+[Repo](https://github.com/Dristand/os212) | [Log](https://github.com/Dristand/os212/blob/master/TXT/mylog.txt) | [Links](https://Dristand.github.io/os212/LINKS) | 
