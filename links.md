@@ -15,3 +15,6 @@ Okay, we've all watched the complexity of cybersecurity through any means. But t
 
 4. [Cybersecurity Factsheets](https://www.ftc.gov/system/files/attachments/cybersecurity-small-business/cybersecuirty_sb_factsheets_all.pdf)<br>
 This is roughly the same as dummies introduction to cybersecurity but more like a pamflet to introduce facts of cybersecurity, honestly you should try to read this. It is easy to understand and not boring at all due its numerous quantity of pictures to visualize the cybersecurity world. 
+
+5. [File System Introductory](https://www.freecodecamp.org/news/file-systems-architecture-explained/)<br>
+A quick brief into File System Architecture, helps me a lot to understand the partition world that really relates to this weeks material.
