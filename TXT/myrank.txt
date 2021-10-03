@@ -5,3 +5,6 @@ ZCZC W02 elfraera
 ZCZC W03 farelmd
 ZCZC W03 fauzandfr
 ZCZC W03 fawzakin
+ZCZC W04 fikriazain
+ZCZC W04 gbhisma
+ZCZC W04 hafidzsulistyan

@@ -22,6 +22,8 @@ ZCZC W03 60 L05 Study
 ZCZC W03 60 L31 VirtualBox: reinstall + resetup
 ZCZC W03 60 L13 Assignment #03
 
-ZCZC W03 45 L05 Study
-ZCZC W03 45 L22 Quiz
-ZCZC W03 60 L05 Study
+ZCZC W04 45 L05 Study
+ZCZC W04 45 L22 Quiz
+ZCZC W04 60 L05 Study
+ZCZC W04 30 L14 Assignment #04
+
