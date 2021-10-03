@@ -19,8 +19,8 @@ This is roughly the same as dummies introduction to cybersecurity but more like 
 5. [File System Introductory](https://www.freecodecamp.org/news/file-systems-architecture-explained/)<br>
 A quick brief into File System Architecture, helps me a lot to understand the partition world that really relates to this weeks material.
 
-6. [Introduction to Tar].(https://linuxhandbook.com/basic-tar-commands/)<br>
+6. [Introduction to Tar](https://linuxhandbook.com/basic-tar-commands/)<br>
 As we reach this week, i noticed we dealt a lot of tar file. So i looked up for some reference about tar to learn more about it.
 
-7. [Pointer C/C++].(https://www.geeksforgeeks.org/pointers-c-examples/)<br>
+7. [Pointer C/C++](https://www.geeksforgeeks.org/pointers-c-examples/)<br>
 A great start to understand how pointers works especially on c based language.
