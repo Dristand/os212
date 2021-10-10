@@ -24,3 +24,6 @@ As we reach this week, i noticed we dealt a lot of tar file. So i looked up for 
 
 7. [Pointer C/C++](https://www.geeksforgeeks.org/pointers-c-examples/)<br>
 A great start to understand how pointers works especially on c based language.
+
+8. [C Memory](https://www.geeksforgeeks.org/memory-layout-of-c-program/)<br>
+Introduction to C memory allocation, great for newbie in C language.
