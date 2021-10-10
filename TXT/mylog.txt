@@ -27,3 +27,10 @@ ZCZC W04 45 L22 Quiz
 ZCZC W04 60 L05 Study
 ZCZC W04 30 L14 Assignment #04
 
+ZCZC W05 45 L22 Quiz
+ZCZC W05 30 L05 Study
+ZCZC W05 30 L05 Study
+ZCZC W05 60 L73 Playing Rage 2
+ZCZC W05 60 L15 Assignment #05
+ZCZC W05 30 L32 Watching lesson related Youtube Videos
+ZCZC W05 10 L03 Github Setup for tips
