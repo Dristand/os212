@@ -34,3 +34,12 @@ ZCZC W05 60 L73 Playing Rage 2
 ZCZC W05 60 L15 Assignment #05
 ZCZC W05 30 L32 Watching lesson related Youtube Videos
 ZCZC W05 10 L03 Github Setup for tips
+
+ZCZC W06 45 L22 Quiz
+ZCZC W06 60 L05 Study
+ZCZC W06 60 L32 Watching Youtube Videos
+ZCZC W06 30 L63 Laptop's Fan Monthly Cleaning  
+ZCZC W06 30 L05 Study
+ZCZC W06 60 L73 Playing Valorant
+ZCZC W06 30 L21 GSGS Links
+ZCZC W06 60 L15 Assignment #06
