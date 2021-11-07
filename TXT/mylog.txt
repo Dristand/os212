@@ -43,3 +43,12 @@ ZCZC W06 30 L05 Study
 ZCZC W06 60 L73 Playing Valorant
 ZCZC W06 30 L21 GSGS Links
 ZCZC W06 60 L15 Assignment #06
+
+ZCZC W07 45 L22 Quiz
+ZCZC W07 45 L05 Reviewing Quiz Material
+ZCZC W07 60 L05 Study
+ZCZC W07 120 L73 Playing Albion Online
+ZCZC W07 60 L32 Watching Linux Installation Tutorial
+ZCZC W07 30 L21 GSGS Links related to assignment
+ZCZC W07 60 L16 Assignment #07
+ZCZC W07 15 L03 Updating couple github items

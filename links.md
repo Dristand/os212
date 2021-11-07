@@ -30,3 +30,6 @@ Introduction to C memory allocation, great for newbie in C language.
 
 9. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 A good reading for student by geeksforgeeks again, a way to start understanding the concept of virtual memory.
+
+10. [SCP Tutorial](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
+Tutorial on how to use scp command successfully for beginners.
