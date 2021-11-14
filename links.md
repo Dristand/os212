@@ -33,3 +33,6 @@ A good reading for student by geeksforgeeks again, a way to start understanding 
 
 10. [SCP Tutorial](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
 Tutorial on how to use scp command successfully for beginners.
+
+11. [LFS](https://www.atlassian.com/git/tutorials/git-lfs)<br>
+Introduction to Large File Storage.
